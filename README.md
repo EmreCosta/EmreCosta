@@ -21,7 +21,8 @@ Onde podem me encontrar:
   <a href="https://sites.google.com/view/portflioemersoncostabi/p%C3%A1gina-inicial" target="_blank"> 
     <img width=40 height=40 src="https://github.com/EmreCosta/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
   </a>
-  <a href="https://www.linkedin.com/in/emersoncostabi/ " target="_blank"> 
-    <img width=40 height=40 src="https://github.com/EmreCosta/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  <a href="https://www.linkedin.com/in/emersoncostabi/" target="_blank"> 
+    <img width="40" height="40" src="https://github.com/EmreCosta/Portfolio/blob/main/social%20icons/linkedin.png?raw=true" alt="LinkedIn">
   </a>
+
 </div>
